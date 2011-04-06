@@ -1,0 +1,226 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer>
+      <setting name="UsedSolutionBuilderID">0</setting>
+    </integer>
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="A72ED1EF-1CF1-4FB0-AE04-5BD488172C8D/f:Form1.Designer.cs" caret="8389" scrollPosition="0|0" />
+      <File id="A72ED1EF-1CF1-4FB0-AE04-5BD488172C8D/f:Form1.cs" caret="5663" scrollPosition="0|243" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="A72ED1EF-1CF1-4FB0-AE04-5BD488172C8D/f:Form1.cs" caret="3866" scrollPosition="0|145" />
+      <File id="A72ED1EF-1CF1-4FB0-AE04-5BD488172C8D/f:Form1.cs" caret="3866" scrollPosition="21|148" />
+      <File id="A72ED1EF-1CF1-4FB0-AE04-5BD488172C8D/f:Form1.cs" caret="6017" scrollPosition="0|205" />
+      <File id="A72ED1EF-1CF1-4FB0-AE04-5BD488172C8D/f:Form1.cs" caret="6058" scrollPosition="0|204" />
+      <File id="A72ED1EF-1CF1-4FB0-AE04-5BD488172C8D/f:Form1.cs" caret="6200" scrollPosition="0|217" />
+      <File id="A72ED1EF-1CF1-4FB0-AE04-5BD488172C8D/f:Form1.cs" caret="4508" scrollPosition="0|196" />
+      <File id="A72ED1EF-1CF1-4FB0-AE04-5BD488172C8D/f:Form1.cs" caret="6071" scrollPosition="0|217" />
+      <File id="A72ED1EF-1CF1-4FB0-AE04-5BD488172C8D/f:Form1.cs" caret="4924" scrollPosition="0|214" />
+      <File id="A72ED1EF-1CF1-4FB0-AE04-5BD488172C8D/f:Form1.cs" caret="5130" scrollPosition="0|218" />
+      <File id="A72ED1EF-1CF1-4FB0-AE04-5BD488172C8D/f:Form1.cs" caret="5613" scrollPosition="0|219" />
+      <File id="A72ED1EF-1CF1-4FB0-AE04-5BD488172C8D/f:Form1.cs" caret="6017" scrollPosition="0|233" />
+      <File id="A72ED1EF-1CF1-4FB0-AE04-5BD488172C8D/f:Form1.cs" caret="7800" scrollPosition="0|290" />
+      <File id="A72ED1EF-1CF1-4FB0-AE04-5BD488172C8D/f:Form1.cs" caret="2749" scrollPosition="0|84" />
+      <File id="A72ED1EF-1CF1-4FB0-AE04-5BD488172C8D/f:Form1.cs" caret="3866" scrollPosition="0|129" />
+      <File id="A72ED1EF-1CF1-4FB0-AE04-5BD488172C8D/f:Form1.cs" caret="3866" scrollPosition="0|159" />
+      <File id="A72ED1EF-1CF1-4FB0-AE04-5BD488172C8D/f:Form1.cs" caret="3602" scrollPosition="0|111" />
+      <File id="A72ED1EF-1CF1-4FB0-AE04-5BD488172C8D/f:Form1.cs" caret="3866" scrollPosition="0|119" />
+      <File id="A72ED1EF-1CF1-4FB0-AE04-5BD488172C8D/f:Form1.cs" caret="3866" scrollPosition="0|127" />
+      <File id="A72ED1EF-1CF1-4FB0-AE04-5BD488172C8D/f:Form1.cs" caret="9890" scrollPosition="0|258" />
+      <File id="A72ED1EF-1CF1-4FB0-AE04-5BD488172C8D/f:Form1.cs" caret="10057" scrollPosition="0|258" />
+      <File id="A72ED1EF-1CF1-4FB0-AE04-5BD488172C8D/f:Form1.cs" caret="520" scrollPosition="0|11" />
+      <File id="A72ED1EF-1CF1-4FB0-AE04-5BD488172C8D/f:Form1.cs" caret="684" scrollPosition="0|19" />
+      <File id="A72ED1EF-1CF1-4FB0-AE04-5BD488172C8D/f:Form1.cs" caret="9472" scrollPosition="0|228" />
+      <File id="A72ED1EF-1CF1-4FB0-AE04-5BD488172C8D/f:Form1.cs" caret="8658" scrollPosition="0|225" />
+      <File id="A72ED1EF-1CF1-4FB0-AE04-5BD488172C8D/f:Form1.cs" caret="7482" scrollPosition="0|178" />
+      <File id="A72ED1EF-1CF1-4FB0-AE04-5BD488172C8D/f:Form1.cs" caret="6732" scrollPosition="0|160" />
+      <File id="A72ED1EF-1CF1-4FB0-AE04-5BD488172C8D/f:Form1.cs" caret="11793" scrollPosition="0|283" />
+      <File id="A72ED1EF-1CF1-4FB0-AE04-5BD488172C8D/f:Form1.cs" caret="8313" scrollPosition="0|206" />
+      <File id="A72ED1EF-1CF1-4FB0-AE04-5BD488172C8D/f:Form1.cs" caret="4811" scrollPosition="0|119" />
+      <File id="A72ED1EF-1CF1-4FB0-AE04-5BD488172C8D/f:Form1.cs" caret="4559" scrollPosition="0|104" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <CustomStartDirectory>
+    </CustomStartDirectory>
+    <UseShadowCopy>True</UseShadowCopy>
+    <UseCustomFolder>False</UseCustomFolder>
+    <EnableUnitTesting>True</EnableUnitTesting>
+    <Providers />
+  </UnitTestRunner>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="private" priority="3" />
+      <Item value="void" priority="2" />
+      <Item value="bool" priority="2" />
+      <Item value="true" priority="4" />
+      <Item value="if" priority="7" />
+      <Item value="continue" priority="2" />
+      <Item value="int" priority="14" />
+      <Item value="Rastr" priority="1" />
+      <Item value="dg" priority="2" />
+      <Item value="DataGridViewColumn" priority="1" />
+      <Item value="System" priority="0" />
+      <Item value="rst1" priority="1" />
+      <Item value="false" priority="0" />
+      <Item value="rst1load" priority="0" />
+      <Item value="btnCompare" priority="0" />
+      <Item value="Form1" priority="0" />
+      <Item value="for" priority="6" />
+      <Item value="i" priority="13" />
+      <Item value="rst2" priority="0" />
+      <Item value="public" priority="1" />
+      <Item value="class" priority="0" />
+      <Item value="new" priority="3" />
+      <Item value="TMpt" priority="5" />
+      <Item value="Mpt" priority="0" />
+      <Item value="DTables" priority="2" />
+      <Item value="mpt" priority="0" />
+      <Item value="ComboBox" priority="0" />
+      <Item value="cbTables" priority="3" />
+      <Item value="rst" priority="1" />
+      <Item value="string" priority="4" />
+      <Item value="LoaderOptimization" priority="0" />
+      <Item value="MPTCompare" priority="1" />
+      <Item value="Mpt1" priority="1" />
+      <Item value="object" priority="5" />
+      <Item value="c" priority="3" />
+      <Item value="DataTable" priority="1" />
+      <Item value="kvp" priority="5" />
+      <Item value="mycells" priority="1" />
+      <Item value="Object" priority="3" />
+      <Item value="z" priority="3" />
+      <Item value="Length" priority="0" />
+      <Item value="v1" priority="5" />
+      <Item value="v2" priority="0" />
+      <Item value="CopyPixelOperation" priority="0" />
+      <Item value="dt1" priority="2" />
+      <Item value="colm" priority="0" />
+      <Item value="dcc" priority="5" />
+      <Item value="null" priority="0" />
+      <Item value="p" priority="2" />
+      <Item value="panel3" priority="0" />
+      <Item value="DataGridViewAutoSizeColumnsMode" priority="0" />
+      <Item value="fRows1" priority="1" />
+      <Item value="cc" priority="5" />
+      <Item value="CurID" priority="1" />
+      <Item value="while" priority="0" />
+      <Item value="do" priority="0" />
+      <Item value="ip" priority="2" />
+      <Item value="cp" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="ToString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataTable">
+      <Item value="TableName" priority="0" />
+      <Item value="Rows" priority="5" />
+      <Item value="Copy" priority="0" />
+      <Item value="Columns" priority="3" />
+      <Item value="DefaultView" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridView">
+      <Item value="Columns" priority="5" />
+      <Item value="Rows" priority="2" />
+      <Item value="BeginEdit" priority="0" />
+      <Item value="EndEdit" priority="0" />
+      <Item value="AutoSizeColumnsMode" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridViewColumn">
+      <Item value="Name" priority="0" />
+      <Item value="HeaderText" priority="0" />
+      <Item value="Width" priority="0" />
+      <Item value="AutoSizeMode" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.DataGridViewAutoSizeColumnMode">
+      <Item value="ColumnHeader" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.Path">
+      <Item value="GetFileName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ToolStripButton">
+      <Item value="Enabled" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ASTRALib.Rastr">
+      <Item value="ReadPnt" priority="0" />
+      <Item value="ToString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MPTCompare.TMpt">
+      <Item value="DTables" priority="0" />
+      <Item value="MTables" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ComboBox">
+      <Item value="Items" priority="4" />
+      <Item value="SelectedItem" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ComboBox+ObjectCollection">
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ToolStripComboBox">
+      <Item value="Enabled" priority="0" />
+      <Item value="SelectedText" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.KeyValuePair`2">
+      <Item value="Value" priority="3" />
+      <Item value="Key" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataRowCollection">
+      <Item value="Add" priority="0" />
+      <Item value="Clear" priority="0" />
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2">
+      <Item value="Clear" priority="1" />
+      <Item value="Add" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridViewRowCollection">
+      <Item value="Clear" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataColumn">
+      <Item value="ColumnName" priority="2" />
+      <Item value="Caption" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridViewColumnCollection">
+      <Item value="Clear" priority="0" />
+      <Item value="CopyTo" priority="0" />
+      <Item value="AddRange" priority="0" />
+      <Item value="Add" priority="0" />
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataColumnCollection">
+      <Item value="CopyTo" priority="0" />
+      <Item value="Count" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataView">
+      <Item value="Sort" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Panel">
+      <Item value="ToString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.DataGridViewAutoSizeColumnsMode">
+      <Item value="ColumnHeader" priority="0" />
+      <Item value="AllCells" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataRow">
+      <Item value="ItemArray" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridViewRow">
+      <Item value="Cells" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridViewCell">
+      <Item value="Value" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

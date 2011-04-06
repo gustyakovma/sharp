@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Assemblies Version="1073741836">
+  <Assembly Name="JetBrains.Annotations, Version=4.1.933.3, Culture=neutral, PublicKeyToken=1010a0d8d6380325" Image="e753c7d6-eab7-44f1-92cc-7da2fc0d9b54" Timestamp="633559634920000000" XmlDocIndexTimestamp="633559634920000000" />
+  <Assembly Name="Interop.ASTRALib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Image="0696bb84-f73e-4be6-bf7d-356716c5a35b" Timestamp="633639646636248575" />
+  <Assembly Name="Interop.ASTRALib, Version=1.0.0.0" Image="b9da1119-b507-4526-ae47-e3f427feba30" Timestamp="633639646636248575" />
+</Assemblies>

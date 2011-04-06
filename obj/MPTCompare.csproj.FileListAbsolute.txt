@@ -1,0 +1,11 @@
+D:\Views\yaa_v3.2\OIK_Utils\MPTCompare\bin\Debug\MPTCompare.exe
+D:\Views\yaa_v3.2\OIK_Utils\MPTCompare\bin\Debug\MPTCompare.pdb
+D:\Views\yaa_v3.2\OIK_Utils\MPTCompare\bin\Debug\Interop.ASTRALib.dll
+D:\Views\yaa_v3.2\OIK_Utils\MPTCompare\obj\Debug\ResolveAssemblyReference.cache
+D:\Views\yaa_v3.2\OIK_Utils\MPTCompare\obj\Debug\Interop.ASTRALib.dll
+D:\Views\yaa_v3.2\OIK_Utils\MPTCompare\obj\Debug\MPTCompare.csproj.ResolveComReference.cache
+D:\Views\yaa_v3.2\OIK_Utils\MPTCompare\obj\Debug\MPTCompare.Properties.Resources.resources
+D:\Views\yaa_v3.2\OIK_Utils\MPTCompare\obj\Debug\MPTCompare.csproj.GenerateResource.Cache
+D:\Views\yaa_v3.2\OIK_Utils\MPTCompare\obj\Debug\MPTCompare.exe
+D:\Views\yaa_v3.2\OIK_Utils\MPTCompare\obj\Debug\MPTCompare.pdb
+D:\Views\yaa_v3.2\OIK_Utils\MPTCompare\obj\Debug\MPTCompare.Form1.resources

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <table Name="Generator" Desc="РГЕ" KeyName="Num" KeyNameDesc="Name" Enable="True">
+      <column Name="P" Desc="Значение мощности генерации" Enable="True"/>
+      <column Name="Pmax" Desc="Максимальная мощность генерации" Enable="True"/>
+      <column Name="Pmin" Desc="Минимальная мощность генерации" Enable="True" />
+      <column Name="Vgain" Desc="Скорость набора нагрузки" Enable="False" />
+      <column Name="Vdrop" Desc="Скорость сброса нагрузки" Enable="False" />
+    </table>
+    <table Name="Consumer2" Desc="Потребители" KeyName="Num" Enable="False">
+      <column Name="P" Desc="Активная мощность" Enable="False" />
+      <column Name="Pdem" Desc="Заявка участника" Enable="False" />
+    </table>
+    <table Name="sechen" Desc="Сечения" KeyName="ns" KeyNameDesc="name" Enable="True">
+      <column Name="psech" Desc="P сечения" Enable="True"/>
+      <column Name="pmax" Desc="P максимальное" Enable="True" />
+      <column Name="pmin" Desc="P минимальное" Enable="True"  />
+      <column Name="sta" Desc="Состояние" Enable="False"  />
+    </table>
+    <table Name="area2" Desc="Территории" KeyNameDesc="name" KeyName="npa" Enable="True">
+      <column Name="pg" Desc="Генерация P" Enable="True"  />
+      <column Name="pop" Desc="Потребление P" Enable="True" />
+      <column Name="vnp" Desc="Внешний переток P" Enable="True"  />
+      <column Name="pfull" Desc="Заданное потребление" Enable="True"  />
+    </table>
+    <table Name="area" Desc="Районы электрической сети" KeyNameDesc="name" KeyName="na" Enable="False">
+      <column Name="pg" Desc="Генерация P" Enable="False" />
+      <column Name="pop" Desc="Потребление P" Enable="False"  />
+      <column Name="vnp" Desc="Внешний переток P" Enable="False"  />
+      <column Name="pfull" Desc="Заданное потребление" Enable="False"  />
+    </table>
+    <table Name="gg_ODU" Desc="Генераторные группы ОДУ" KeyNameDesc="name" KeyName="nu" Enable="False">
+      <column Name="pg" Desc="Генерация" Enable="False" />
+      <column Name="pg_min" Desc="Минимальная генерация" Enable="False" />
+      <column Name="pg_max" Desc="Максимальная генерация" Enable="False" />
+    </table>
+    <table Name="ngroup" Desc="Нагрузочные группы" KeyNameDesc="name" KeyName="nga" Enable="False">
+      <column Name="pop" Desc="Потребление P" Enable="True"/>
+    </table>
+</config>

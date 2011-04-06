@@ -1,0 +1,48 @@
+C:\Common\Мегаточка\MPTCompare\obj\Debug\Interop.ASTRALib.dll
+C:\Common\Мегаточка\MPTCompare\obj\Debug\MPTCompare.csproj.ResolveComReference.cache
+C:\Common\Мегаточка\MPTCompare\obj\Debug\MPTCompare.exe
+C:\Common\Мегаточка\MPTCompare\obj\Debug\MPTCompare.pdb
+D:\PROJECTS\C#\MPTCompare\obj\Debug\MPTCompare.csproj.ResolveComReference.cache
+D:\PROJECTS\C#\MPTCompare\obj\Debug\MPTCompare.exe
+D:\PROJECTS\C#\MPTCompare\obj\Debug\MPTCompare.pdb
+D:\PROJECTS\C#\MPTCompare\obj\Debug\ResolveAssemblyReference.cache
+D:\PROJECTS\C#\MPTCompare\obj\Debug\MPTCompare.Form1.resources
+D:\PROJECTS\C#\MPTCompare\obj\Debug\MPTCompare.Properties.Resources.resources
+D:\PROJECTS\C#\MPTCompare\obj\Debug\ResGen.read.1.tlog
+D:\PROJECTS\C#\MPTCompare\obj\Debug\ResGen.write.1.tlog
+D:\PROJECTS\C#\MPTCompare\bin\Debug\MPTCompare.exe
+D:\PROJECTS\C#\MPTCompare\bin\Debug\MPTCompare.pdb
+D:\PROJECTS\C#\MPTCompare\bin\Debug\Interop.ASTRALib.dll
+D:\PROJECTS\C#\MPTCompare\obj\Debug\Interop.ASTRALib.dll
+C:\Users\GustyakovMA.ODUYU\Desktop\Сравнение МТ\home\MPTCompare\MPTCompare\obj\Debug\Interop.ASTRALib.dll
+C:\Users\GustyakovMA.ODUYU\Desktop\Сравнение МТ\home\MPTCompare\MPTCompare\obj\Debug\MPTCompare.csproj.ResolveComReference.cache
+C:\Users\GustyakovMA.ODUYU\Desktop\Сравнение МТ\home\MPTCompare\MPTCompare\obj\Debug\MPTCompare.exe
+C:\Users\GustyakovMA.ODUYU\Desktop\Сравнение МТ\home\MPTCompare\MPTCompare\obj\Debug\MPTCompare.pdb
+D:\PROJECTS\C#\MPTCompare\MPTCompare\obj\Debug\Interop.ASTRALib.dll
+D:\PROJECTS\C#\MPTCompare\MPTCompare\obj\Debug\MPTCompare.csproj.ResolveComReference.cache
+D:\PROJECTS\C#\MPTCompare\MPTCompare\obj\Debug\MPTCompare.exe
+D:\PROJECTS\C#\MPTCompare\MPTCompare\obj\Debug\MPTCompare.pdb
+D:\PROJECTS\C#\MPTCompare\MPTCompare\bin\Debug\MPTCompare.exe
+D:\PROJECTS\C#\MPTCompare\MPTCompare\bin\Debug\MPTCompare.pdb
+D:\PROJECTS\C#\MPTCompare\MPTCompare\bin\Debug\Interop.ASTRALib.dll
+D:\PROJECTS\C#\MPTCompare\MPTCompare\obj\Debug\ResolveAssemblyReference.cache
+D:\PROJECTS\C#\MPTCompare\MPTCompare\obj\Debug\MPTCompare.Form1.resources
+D:\PROJECTS\C#\MPTCompare\MPTCompare\obj\Debug\MPTCompare.Properties.Resources.resources
+D:\PROJECTS\C#\MPTCompare\MPTCompare\obj\Debug\ResGen.read.1.tlog
+D:\PROJECTS\C#\MPTCompare\MPTCompare\obj\Debug\ResGen.write.1.tlog
+D:\#PROJECTS\C#\ACTTOP\MPTCompare2\MPTCompare\obj\Debug\MPTCompare.csproj.ResolveComReference.cache
+D:\#PROJECTS\C#\ACTTOP\MPTCompare2\MPTCompare\obj\Debug\MPTCompare.exe
+D:\#PROJECTS\C#\ACTTOP\MPTCompare2\MPTCompare\obj\Debug\MPTCompare.pdb
+D:\PROJECTS\C#\MPTCompare2\MPTCompare\obj\Debug\Interop.ASTRALib.dll
+D:\PROJECTS\C#\MPTCompare2\MPTCompare\obj\Debug\MPTCompare.csproj.ResolveComReference.cache
+D:\PROJECTS\C#\MPTCompare2\MPTCompare\obj\Debug\MPTCompare.exe
+D:\PROJECTS\C#\MPTCompare2\MPTCompare\obj\Debug\MPTCompare.pdb
+D:\PROJECTS\C#\MPTCompare2\MPTCompare\bin\Debug\MPTCompare.exe
+D:\PROJECTS\C#\MPTCompare2\MPTCompare\bin\Debug\MPTCompare.pdb
+D:\PROJECTS\C#\MPTCompare2\MPTCompare\bin\Debug\Interop.ASTRALib.dll
+D:\PROJECTS\C#\MPTCompare2\MPTCompare\obj\Debug\ResolveAssemblyReference.cache
+D:\PROJECTS\C#\MPTCompare2\MPTCompare\obj\Debug\MPTCompare.Form1.resources
+D:\PROJECTS\C#\MPTCompare2\MPTCompare\obj\Debug\MPTCompare.Properties.Resources.resources
+D:\PROJECTS\C#\MPTCompare2\MPTCompare\obj\Debug\ResGen.read.1.tlog
+D:\PROJECTS\C#\MPTCompare2\MPTCompare\obj\Debug\ResGen.write.1.tlog
+D:\PROJECTS\C#\MPTCompare2\MPTCompare\bin\Debug\MPTCompare.exe.config
